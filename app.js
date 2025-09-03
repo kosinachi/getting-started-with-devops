@@ -44,6 +44,7 @@ const server = http.createServer((req, res) => {
           <div class="header">
             <h1>Mastering My Skills in DevOps, Yay!</h1>
             <p>Modern Node.js application with CI/CD pipeline</p>
+            <p>Aspiring DevOps Engineer</p>
           </div>
           <h2>Available Endpoints:</h2>
           <div class="endpoint">
