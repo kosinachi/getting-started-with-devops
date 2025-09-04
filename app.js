@@ -44,14 +44,15 @@ const server = http.createServer((req, res) => {
           <div class="header">
             <h1>Mastering My Skills in DevOps, Yay!</h1>
             <p>Modern Node.js application with CI/CD pipeline</p>
-            <p>Aspiring DevOps Engineer</p>
+            <p>DevOps Engineer</p>
+            <p>Motto: I do not trust tomorrow, I trust now, because now is power but tomorrow is not certain.</p>
           </div>
           <h2>Available Endpoints:</h2>
           <div class="endpoint">
-            <strong>GET /</strong> - This welcome page
+            <strong>GET /</strong> - You are in the right place as this is main welcome page
           </div>
           <div class="endpoint">
-            <strong>GET /health</strong> - Health check (JSON)
+            <strong>GET /health</strong> - Regular Health check (JSON)
           </div>
           <div class="endpoint">
             <strong>GET /info</strong> - System information
